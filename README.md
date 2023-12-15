@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panditsomnath10016git
 - 👀 I’m interested in Python, MATLAB, and an enthusiastic Linux user.
-- 🌱 I’m currently learning GUI development and data management systems. Working on various things need for my research purpose.
+- 🌱 I’m currently learning GUI development and data management systems. Working on various things needed for my research.
 - 📫 Reach me at panditsomnath10016@gmail.com
 
 <!---
